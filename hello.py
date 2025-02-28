@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 st.write("developed by Milanesa Tactica")
-st.write("## Play Station Network Server Status")
+st.write("## Play Station Network - Server Status")
 #x = st.text_input("Movie", "Star Wars")
 
 #if st.button("Click Me"):
